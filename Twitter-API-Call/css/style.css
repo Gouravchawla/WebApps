@@ -1,0 +1,33 @@
+body{
+	background:#e7e7e7;
+}
+
+header{
+	border-bottom:1px solid #ccc;
+}
+
+
+
+header h1{
+	text-align:center;
+}
+
+#txtSearch{
+	display:inline-block;
+	width:40%;
+	margin-top:3em;
+	margin-left:300px;
+
+}
+
+#btnSearch{
+	
+	width : 20%;
+	margin-top:2em;
+}
+
+.tweetContainer{
+	border:1 px solid black;
+	background:#fff;
+	margin:20px;
+}
